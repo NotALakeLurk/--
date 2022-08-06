@@ -1,0 +1,17 @@
+* {
+  color-scheme: light;
+  background-image: url(images/finger.png);
+  background-repeat: repeat;
+  text-align: center;
+  background-color: transparent;
+}
+button {
+  background-color: transparent;
+  border: 0ch;
+  font-size: medium;
+  margin: 0px;
+  padding: 0px;
+}
+a {
+  text-decoration: none;
+}
